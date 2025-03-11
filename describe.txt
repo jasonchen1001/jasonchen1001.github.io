@@ -1,0 +1,48 @@
+link: https://jasonchen1001.github.io/personal_website/
+
+1. Fonts and Basic Typography
+Implemented 'Segoe UI' with fallback fonts
+Line height set to 1.6
+Text color is dark gray (#333)
+Background color is light gray (#f8f9fa)
+
+2. Custom Color Scheme
+Defined a color palette using CSS variables:
+Primary color: blue (#4a89dc)
+Secondary color: light blue (#5d9cec)
+Accent color: yellow (#f6bb42)
+Text color: dark gray (#434a54)
+Light color: near-white (#f5f7fa)
+Dark color: gray (#656d78)
+
+3. Navigation Bar Styling
+Uses primary color as background
+Added shadow effect
+Navigation links arranged horizontally and centered
+Links feature hover effects and active state styling
+
+4. Main Content Area
+Maximum width of 1200px, centered on page
+Appropriate padding on both sides
+
+5. Home Page Hero Section
+Centered title and content
+Profile image with circular styling, shadow, and hover zoom effect
+Introduction area with white background, rounded corners, and shadow
+
+6. About Page Styling
+Content area with white background, rounded corners, and shadow
+Flexbox layout for displaying images and text
+Images have hover zoom effect
+Skills and projects lists with proper indentation and spacin
+
+7. Responsive Design
+For screen widths below 768px:
+About page content changes from horizontal to vertical layout
+Images positioned    above text
+Reduced font sizes for headings to better fit smaller screens
+
+8. Interactive Effects
+Images scale up on hover
+Navigation links change background color on hover
+Footer links change color and add underline on hover
